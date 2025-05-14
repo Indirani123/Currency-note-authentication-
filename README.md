@@ -17,4 +17,4 @@ Usage
 Clone the repository.
 Install the required packages.
 Run main.py and upload the note images.
-##Conclusion A lightweight and effective way to detect fake currency using computer vision.# Currency-note-authentication-
+##Conclusion A lightweight and effective way to detect fake currency using computer vision.
